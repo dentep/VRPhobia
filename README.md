@@ -12,6 +12,10 @@ The current version of the VR application consists of three videos taken from Yo
 
 Unity IDE was used to create the application which was later converted to Xcode project. The source code of the application is available in this repository.
 
+VR App              |  VR App Video Gallery
+:-------------------------:|:-------------------------:
+![](images/vr1.png)        |![](/images/vr2.png)
+
 ### HR application
 
 The HR monitor application is based on the communication between an iOS and watchOS devices. Apple Watch 5 and iPhone X (64GB) were used during the testing phase. Currently the application's features include: measuring, displaying and storing user's heart rate in a form of a chart, taking user's input (name, age, phobia description) and showing results page to the user with all recorded information. Additionally, users can share the information through online services, such as email, with their healthcare professional.
