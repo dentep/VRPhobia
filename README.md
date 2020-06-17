@@ -33,6 +33,10 @@ The work surrounding this project has resulted in two academic papers. One prese
 In the future, it is planned to expand the system by adding more videos to the VR library and adding more sensors, such as Galvanic Skin Response (GSR) and Electroencephalogram (EEG). Additionally, Metamorphic Testing was applied during the testing phase of HR application and helped in finding a bug in the watchOS system, thus MT could be a good method to investigate potential problems in mobile applications and also alleviating an Oracle Problem in VR apps.
 
 ### References
-###### [1] James Walker, Denis Stepanov, Dave Towey, Ahmed Elamin, Matthew Pike, and Ran Wei. Creating a 4D photoreal VR environment to teach civil engineering. In IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE 2019), pages 1006-1013, 2019 {ref1}
+<a name="ref1">
+[1] James Walker, Denis Stepanov, Dave Towey, Ahmed Elamin, Matthew Pike, and Ran Wei. Creating a 4D photoreal VR environment to teach civil engineering. In IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE 2019), pages 1006-1013, 2019
+</a>
 
-###### [2] Denis Stepanov, Dave Towey, Tsong Yueh Chen, and Zhi Quan Zhou. A Virtual Reality OER Platform to Deliver Phobia-motivated Experiences, N.D. accepted to appear in the Proceedings of the 44th IEEE Annual Computer Software and Applications Conference, COMPSAC 2020 {ref2}
+<a name="ref2">
+[2] Denis Stepanov, Dave Towey, Tsong Yueh Chen, and Zhi Quan Zhou. A Virtual Reality OER Platform to Deliver Phobia-motivated Experiences, N.D. accepted to appear in the Proceedings of the 44th IEEE Annual Computer Software and Applications Conference, COMPSAC 2020
+</a>
