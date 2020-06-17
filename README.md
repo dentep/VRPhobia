@@ -12,9 +12,9 @@ The current version of the VR application consists of three videos taken from Yo
 
 Unity IDE was used to create the application which was later converted to Xcode project. The source code of the application is available in this repository.
 
-VR App              |  VR App Video Gallery
-:-------------------------:|:-------------------------:
-![](images/vr1.png)        |![](/images/vr2.png)
+|VR App                     |  VR App Video Gallery     |
+|:-------------------------:|:-------------------------:|
+![](images/vrmainmenu.png)        |![](/images/vr2.png)
 
 ### HR application
 
