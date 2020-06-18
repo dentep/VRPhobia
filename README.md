@@ -44,4 +44,4 @@ In the future, it is planned to expand the system by adding more videos to the V
 </a>
 
 ### How To Run
-[This installation guide](https:/dentep.github.io/VR/VRPhobiaInstallationGuide.pdf) describes in detail how to run both applications.
+[This installation guide](VRPhobiaInstallationGuide.pdf) describes in detail how to run both applications.
