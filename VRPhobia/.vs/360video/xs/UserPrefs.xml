@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{24597808-AF17-A0B8-130D-1C20B5BB9A38}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GVRButton.cs">
+    <Files>
+      <File FileName="Assets/Shaders/FlippingNormals.shader" Line="28" Column="32" />
+      <File FileName="Assets/Shaders/FlippingNormals2.shader" />
+      <File FileName="Assets/GoogleVR/Scripts/EventSystem/GvrPointerGraphicRaycaster.cs" />
+      <File FileName="Assets/Scripts/GVRButton.cs" Line="41" Column="1" />
+      <File FileName="Assets/Scripts/SceneChanger.cs" />
+      <File FileName="Assets/Scripts/QuitApp.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="360video" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9e117930-421f-4f05-9e60-6a2d94d9f4e1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

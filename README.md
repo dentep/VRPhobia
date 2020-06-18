@@ -37,8 +37,11 @@ In the future, it is planned to expand the system by adding more videos to the V
 [1] James Walker, Denis Stepanov, Dave Towey, Ahmed Elamin, Matthew Pike, and Ran Wei. Creating a 4D photoreal VR environment to teach civil engineering. In IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE 2019), pages 1006-1013, 2019
 </a>
 
-<br>
+<br><br>
 
 <a name="ref2">
 [2] Denis Stepanov, Dave Towey, Tsong Yueh Chen, and Zhi Quan Zhou. A Virtual Reality OER Platform to Deliver Phobia-motivated Experiences, N.D. accepted to appear in the Proceedings of the 44th IEEE Annual Computer Software and Applications Conference, COMPSAC 2020
 </a>
+
+### How To Run
+[This installation guide]() describes in detail how to run both applications.
